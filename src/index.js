@@ -1,3 +1,6 @@
+const { JSDOM } = require( "jsdom" );
+const { window } = new JSDOM( "" );
+const $ = require( "jquery" )( window );
 import './styles.css';
 
 function rirppleTap() {
