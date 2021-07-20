@@ -14,7 +14,7 @@ supports them.
 <div class="ripple"></div>
 ```
 
-Use the classname `ripple` to get the desired ripple effect at the clicked
+Use the classname `ripple` to get the beautiful ripple effect at the clicked
 position. 
 
 To change the color and delay of the ripple add an extra class to the element,
