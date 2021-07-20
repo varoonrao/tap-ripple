@@ -20,5 +20,5 @@ position.
 To change the color and delay of the ripple add an extra class to the element,
 then do the modifications.
 
-demo on codepen
+demo on codepen:
 https://codepen.io/varoonrao/pen/jOmwzdK
