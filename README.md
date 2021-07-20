@@ -22,7 +22,7 @@ Include the minified Javascript file before closing the  `<body>` tag
     ...any code 
     ...any code
     
-    `<script src="ripple.min.js"></script>`
+    <script src="ripple.min.js"></script>
 </body>
 </html>
 
