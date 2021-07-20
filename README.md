@@ -10,8 +10,22 @@ supports them.
 
 # Usage
 
+Include the minified Javascript file before closing the  `<body>` tag
+
 ```
-<div class="ripple"></div>
+<html lang="en">
+<head>
+  ...Your code...
+</head>
+<body>
+    <div class="ripple">....</div>
+    ...any code 
+    ...any code
+    
+    `<script src="ripple.min.js"></script>`
+</body>
+</html>
+
 ```
 
 Use the classname `ripple` to get the beautiful ripple effect at the clicked
