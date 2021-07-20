@@ -5,7 +5,7 @@ supports them.
 
 # Installation
 
-`npm i ripple-on-click --save`
+`npm i rippleonclick --save`
 
 # Usage
 
