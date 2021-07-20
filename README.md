@@ -1,4 +1,4 @@
-# Ripple effect on element click.
+# Ripple effect on click of the element.
 Light weight Javascript based library to enhance the user experience.
 
 Get the material design ripple effect on button click or the elements which
