@@ -2,14 +2,9 @@
   "name": "rippleonclick",
   "version": "1.0.0",
   "description": "Provides a beautiful ripple effect on the element where the mouse cursor is clicked.",
-  "module": "dist/index.js",
-  "browser": "dist/index.js",
-  "main": "dist/index.js",
+  "main": "ripple.min.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "dependency": {
-    "jquery": "^3.6.0"
   },
   "repository": {
     "type": "git",
@@ -26,8 +21,5 @@
   "bugs": {
     "url": "https://github.com/varoonrao/tap-ripple/issues"
   },
-  "homepage": "https://github.com/varoonrao/tap-ripple#readme",
-  "files": [
-    "dist"
-  ]
+  "homepage": "https://github.com/varoonrao/tap-ripple#readme"
 }
