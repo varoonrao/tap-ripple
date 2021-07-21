@@ -38,4 +38,4 @@ demo on codepen:
 https://codepen.io/varoonrao/pen/jOmwzdK
 
 
-[![npm version](https://img.shields.io/npm/v/useripple.svg?color=blue)](https://www.npmjs.com/package/rippleonclick) ![Bundle size](https://img.shields.io/bundlephobia/min/rippleonclick) [![GitHub license](https://img.shields.io/npm/l/useripple.svg?color=blue)](https://github.com/varoonrao/tap-ripple) ![Total lines](https://img.shields.io/tokei/lines/github/varoonrao/tap-ripple)
+[![npm version](https://img.shields.io/npm/v/useripple.svg?color=blue)](https://www.npmjs.com/package/rippleonclick) ![Bundle size](https://img.shields.io/bundlephobia/min/rippleonclick) [![GitHub license](https://img.shields.io/npm/l/rippleonclick.svg?color=blue)](https://github.com/varoonrao/tap-ripple) ![Total lines](https://img.shields.io/tokei/lines/github/varoonrao/tap-ripple)
