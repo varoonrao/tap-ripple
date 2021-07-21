@@ -1,0 +1,54 @@
+body {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+  font-family: "Poppins", sans-serif;
+}
+
+.container {
+  padding: 0 20px;
+  text-align: center;
+}
+
+.ripple {
+  position: relative;
+  overflow: hidden;
+}
+
+.card {
+  padding: 20px;
+  background: #eeeeee;
+  overflow: hidden;
+  font-size: 30px;
+}
+
+button {
+  border: none;
+  padding: 12px 20px;
+  background: #ee1a1a;
+  color: white;
+  font-size: 30px;
+}
+.wave {
+  background: black;
+  position: absolute;
+  overflow: hidden;
+  transform-origin: center center;
+  transform: translate(-50%, -50%);
+  border-radius: 50%;
+  animation: wave 0.3s linear;
+  overflow: hidden;
+}
+
+@keyframes wave {
+  0% {
+    opacity: 70%;
+    width: 10px;
+    height: 10px;
+  }
+  100% {
+    opacity: 0%;
+    width: 100px;
+    height: 100px;
+  }
+}
