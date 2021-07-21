@@ -1,3 +1,5 @@
+[![npm version](https://img.shields.io/npm/v/useripple.svg?color=blue)](https://www.npmjs.com/package/rippleonclick) ![Bundle size](https://img.shields.io/bundlephobia/min/rippleonclick) [![GitHub license](https://img.shields.io/npm/l/rippleonclick.svg?color=blue)](https://github.com/varoonrao/tap-ripple) ![Total lines](https://img.shields.io/tokei/lines/github/varoonrao/tap-ripple)
+
 # Ripple effect on click of the element.
 Light weight Javascript based library to enhance the user experience.
 
@@ -37,5 +39,3 @@ then do the modifications.
 demo on codepen:
 https://codepen.io/varoonrao/pen/jOmwzdK
 
-
-[![npm version](https://img.shields.io/npm/v/useripple.svg?color=blue)](https://www.npmjs.com/package/rippleonclick) ![Bundle size](https://img.shields.io/bundlephobia/min/rippleonclick) [![GitHub license](https://img.shields.io/npm/l/rippleonclick.svg?color=blue)](https://github.com/varoonrao/tap-ripple) ![Total lines](https://img.shields.io/tokei/lines/github/varoonrao/tap-ripple)
