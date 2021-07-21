@@ -36,3 +36,6 @@ then do the modifications.
 
 demo on codepen:
 https://codepen.io/varoonrao/pen/jOmwzdK
+
+
+[![npm version](https://img.shields.io/npm/v/useripple.svg?color=blue)](https://www.npmjs.com/package/rippleonclick) ![Bundle size](https://img.shields.io/bundlephobia/min/useripple.svg?color=blue) [![GitHub license](https://img.shields.io/npm/l/useripple.svg?color=blue)](https://github.com/varoonrao/tap-ripple)
